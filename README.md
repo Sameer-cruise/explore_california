@@ -3,4 +3,4 @@
 
 Welcome To Explore California
 
-Explore and find your tour!
+Explore webpage and find your tour!
